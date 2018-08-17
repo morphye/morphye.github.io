@@ -5,7 +5,7 @@ Simple HTML Page for Bitcoin and Altcoins Payments System.
 
 # Use
 
-URL : https://XXX.github.io/?addr=YOUR_BITCOIN_ADDRESS&amount=YOUR_AMOUNT
+URL : https://morphye.github.io/?addr=YOUR_BITCOIN_ADDRESS&amount=YOUR_AMOUNT
 
 | Params | Description |
 |----------|--------|
@@ -13,7 +13,7 @@ URL : https://XXX.github.io/?addr=YOUR_BITCOIN_ADDRESS&amount=YOUR_AMOUNT
 |**amount**|The amount in bitcoin : 0.0043|
 
 ```
-https://XXX.github.io/?addr=YOUR_BITCOIN_ADDRESS&amount=YOUR_AMOUNT
+https://morphye.github.io/?addr=YOUR_BITCOIN_ADDRESS&amount=YOUR_AMOUNT
 ```
 
 # License
