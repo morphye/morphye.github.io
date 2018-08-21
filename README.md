@@ -5,7 +5,7 @@ Simple HTML Page for Bitcoin and Altcoins Payments System.
 
 # Use
 
-URL : https://morphye.github.io/?addr=YOUR_BITCOIN_ADDRESS&amount=YOUR_AMOUNT
+URL : https://morphye.github.io/?addr=1LiF2UZRpqrV2yKdyJvYdsVuhU375fWiCW&amount=0.0015
 
 | Params | Description |
 |----------|--------|
